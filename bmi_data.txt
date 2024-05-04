@@ -1,0 +1,5 @@
+Weight: 60.0 kg, Height: 154.0 m, BMI: 0.0025299375948726597, Category: Underweight
+Weight: 60.0 kg, Height: 1.0 m, BMI: 60.0, Category: Obese
+Weight: 60.0 kg, Height: 6.0 m, BMI: 1.6666666666666667, Category: Underweight
+Weight: 68.0 kg, Height: 567.0 m, BMI: 0.0002115157905869252, Category: Underweight
+Weight: 68.0 kg, Height: 5.0 m, BMI: 2.72, Category: Underweight
